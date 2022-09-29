@@ -7,7 +7,7 @@ Tested and validated with the following security keys:
 * Yubikey 5C (USB-C)
 * Yubikey 5 NFC (USB-A)
 
-Also validated with
+Also validated with:
 
 * Yubikey 4 (USB-A) Note: This is not a FIDO2 device. 
 
