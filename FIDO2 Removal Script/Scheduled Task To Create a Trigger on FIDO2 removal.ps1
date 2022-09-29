@@ -1,5 +1,5 @@
 # PowerShell script that creates a Scheduled Task that triggers on Event ID 102 from the SmartCard-DeviceEnum/Operational log, the removal/unplugging of a FIDO2 security device.
-# Two options: Either Log off or Lock the computer when the FIDO2 security is removed.
+# Two options: Either Log off or Lock the computer when the FIDO2 security key is removed.
 # Questions? Ping andreas.stenhall@coligo.se via Teams or on Twitter https://twitter.com/AndreasStenhall
 # ===================================
 
